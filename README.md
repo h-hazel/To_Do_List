@@ -1,2 +1,3 @@
-# To_Do_List
-UAS MDI
+# To Do List
+Aplikasi sederhana untuk mengelola daftar tugas.
+
