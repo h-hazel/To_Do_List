@@ -4,13 +4,19 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Project UAS MDI kelompok 7
 
-A few resources to get you started if this is your first Flutter project:
+Nama	: Andaru Dimasseto Wibowo
+Role	: Front End / UI Designer
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Judul project : To Do List Kelompok 7
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Deskripsi fungsionalitas aplikasi : 
+Berhasil dalam mengimplementasikan fitur CRUD (Create, Read, Update, Delete) dan ada progress task apabila sudah selesai dikerjakan berdasarkan total jumlah task user. Memiliki fungsi login, register, dan logout apabila user sudah/belum punya akun yang langsung terhubung oleh daabase Firebase. Ketika User keluar namun khawatir akan kehilangan progress atau data yg sudah dibuat, itu tidak akan terjadi berkat database yg sudah disimpan oleh sistem.  
+
+Teknologi yang digunakan : Flutter, Vscode, Firebase, Laptop
+
+Cara menjalankan aplikasi :
+
+User akan sign up (jika belum punya akun) sign in (jika sudah punya)>
+user akan diarahkan ke halaman task> home screen setelah user berhasil login> user dapat melakukan fitur CRUD pada task dan melihat task yang sudah selesai>user dapat logout dan login kembali tanpa khawatir kehilangan data
